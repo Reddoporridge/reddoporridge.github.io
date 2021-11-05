@@ -15,6 +15,7 @@ Hey there, i'm William Hastanta and i'm a CyberSecurity student at BINUS Univers
 ## Experience
 
 ## Writings
+- [OverTheWire - Bandit](./OverTheWire/bandit.md)
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/william-hastanta-563aa7183/)
